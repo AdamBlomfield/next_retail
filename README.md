@@ -21,3 +21,5 @@ Collecting and Analyzing data from Next Retail Website
 [Robots text file](https://www.next.co.uk/robots.txt)
 
 [Sitemap](https://www.next.co.uk/sitemap-index.xml)
+
+[Webscraping youtube](https://www.youtube.com/watch?v=ng2o98k983k)
