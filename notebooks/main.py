@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
         # Append the new data to meta_data csv
         print("Appending today's meta data for to meta_data.csv file")
-        meta_data_df.to_csv('../data/meta_data.csv', mode='a', header=True)
+        meta_data_df.to_csv('../data/meta_data.csv', mode='a', header=False)
         print("Scraping Complete\n")
 
         # Wait to do next scrape
